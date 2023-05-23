@@ -19,5 +19,5 @@ By the blocking of that light we can tell how big the planet is compared to the 
 
 ## Сбор данных
 
-В качестве датасета мы используем данные о точках интереса обсерватории Кеплер (Kepler Objects of Interest, KOI). Данные взяти с [сайта NASA](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative).
+В качестве датасета мы используем данные о точках интереса обсерватории Кеплер (Kepler Objects of Interest, KOI). Данные взяты с [сайта NASA](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative).
 
