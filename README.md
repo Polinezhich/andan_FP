@@ -62,3 +62,5 @@ By the blocking of that light we can tell how big the planet is compared to the 
 * Из датасета будут удалены тела, статус которых все еще не определен, а также сгруппированы подтвержденные и непотвержденные экзопланеты
 
 !!!
+
+123
