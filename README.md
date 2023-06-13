@@ -17,7 +17,7 @@ __«Ке́плер»__ — космическая обсерватория НА�
 > "Kepler looks at over 170,000 stars simultaneously, looking for planets that cross their star and block some light. 
 By the blocking of that light we can tell how big the planet is compared to the star, and when it repeats we can tell the orbital period. From Kepler's third law we can deduce how far the planet is from the star. And by looking at the properties of the star we can tell how hot that planet might be."
 
-![Alt Text](https://github.com/Polinezhich/andan_FP/blob/main/imgs/The_model_of_a_transit.gif)
+<img src="https://github.com/Polinezhich/andan_FP/blob/main/imgs/The_model_of_a_transit.gif" width="100" height="100" />
 
 ## Сбор данных
 
